@@ -1,9 +1,6 @@
 # Alexis Schottenstein “In permanent beta: learning, improving, evolving...”
 # <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://blockgeeks.com/wp-content/uploads/2016/09/transactioncycle-1024x552.jpg" width="228" height="141">
 
-## Description
-
-### Table of Contents
 Performance-driven entrepreneur with over 6 years of extensive experience in providing financial consulting, accounting, and project management services. My education and work experience have allowed me diverse opportunities to strategically manage all business aspects of accounting systems and financial operations including blockchain projects.
 
 As Senior Staff Accountant with a proven track record in the financial services sector – helping high growth companies increase profitability, efficiency and service delivery, I have found that almost anything is possible by building the right partnerships and leveraging technology to improve financial processes.
